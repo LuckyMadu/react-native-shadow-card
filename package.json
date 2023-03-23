@@ -1,0 +1,22 @@
+{
+  "name": "react-native-shadow-card",
+  "version": "1.0.0",
+  "description": "Shadow card component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyMadu/react-native-shadow-card.git"
+  },
+  "keywords": [
+    "react-native",
+    "cardview",
+    "shadow",
+    "view",
+    "react-native-shadow-card"
+  ],
+  "author": "Lahiru Amaratunga",
+  "license": "ISC"
+}
